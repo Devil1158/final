@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\unity project\\final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|c:\\unity project\\final\\assets\\steering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\steering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|c:\\unity project\\final\\assets\\vehicle physics pro\\sample assets\\scripts\\utility\\capturescreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\vehicle physics pro\\sample assets\\scripts\\utility\\capturescreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|C:\\unity project\\final\\assets\\vehicle physics pro\\sample assets\\scripts\\utility\\pausevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\vehicle physics pro\\sample assets\\scripts\\utility\\pausevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "steering.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\steering.cs",
+              "RelativeDocumentMoniker": "Assets\\steering.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\steering.cs",
+              "RelativeToolTip": "Assets\\steering.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAywDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:33:01.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaptureScreenshot.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\CaptureScreenshot.cs",
+              "RelativeDocumentMoniker": "Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\CaptureScreenshot.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\CaptureScreenshot.cs",
+              "RelativeToolTip": "Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\CaptureScreenshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:51:05.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PauseVehicle.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\PauseVehicle.cs",
+              "RelativeDocumentMoniker": "Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\PauseVehicle.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\PauseVehicle.cs",
+              "RelativeToolTip": "Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\PauseVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:23:57.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
