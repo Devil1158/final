@@ -3,16 +3,62 @@
   "WorkspaceRootPath": "C:\\unity project\\final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|c:\\unity project\\final\\assets\\steering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\steering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|c:\\unity project\\final\\assets\\vehicle physics pro\\scenes\\ui\\scripts\\closeonkeyorclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\vehicle physics pro\\scenes\\ui\\scripts\\closeonkeyorclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|c:\\unity project\\final\\assets\\vehicle physics pro\\sample assets\\scripts\\utility\\capturescreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|c:\\unity project\\final\\assets\\vehicle physics pro\\vrcarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\vehicle physics pro\\vrcarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|C:\\unity project\\final\\assets\\vehicle physics pro\\moving car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\vehicle physics pro\\moving car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|C:\\unity project\\final\\assets\\vehicle physics pro\\sdk\\vehiclephysics.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\vehicle physics pro\\sdk\\vehiclephysics.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|C:\\unity project\\final\\assets\\vehicle physics pro\\sdk\\vehiclephysics.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\vehicle physics pro\\sdk\\vehiclephysics.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|C:\\unity project\\final\\assets\\vehicle physics pro\\scenes\\ui\\scripts\\ignitionkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\vehicle physics pro\\scenes\\ui\\scripts\\ignitionkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\unity project\\final\\Assets\\EnterCarScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\EnterCarScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shahv\\AppData\\Local\\Temp\\51a2b521-b97b-4ea0-8ff2-88055d73d5e9_RKC2Scripts.zip.5e9\\RKC2Scripts\\CarEnter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\unity project\\final\\Assets\\CarScript,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CarScript,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\unity project\\final\\Assets\\CarEnter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CarEnter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shahv\\AppData\\Local\\Temp\\fcca87ae-368b-4c1f-81ef-b7867fcab56f_RKC2Scripts.zip.56f\\RKC2Scripts\\CarExit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\unity project\\final\\Assets\\steering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\steering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|C:\\unity project\\final\\assets\\vehicle physics pro\\sample assets\\scripts\\utility\\capturescreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\vehicle physics pro\\sample assets\\scripts\\utility\\capturescreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|C:\\unity project\\final\\assets\\vehicle physics pro\\sample assets\\scripts\\utility\\pausevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{858C28F2-1B8C-9FF8-BF09-4B58E2AD881A}|Assembly-CSharp.csproj|solutionrelative:assets\\vehicle physics pro\\sample assets\\scripts\\utility\\pausevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\unity project\\final\\Assets\\CarExit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CarExit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +73,159 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "steering.cs",
-              "DocumentMoniker": "C:\\unity project\\final\\Assets\\steering.cs",
-              "RelativeDocumentMoniker": "Assets\\steering.cs",
-              "ToolTip": "C:\\unity project\\final\\Assets\\steering.cs",
-              "RelativeToolTip": "Assets\\steering.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAywDcAAAAAAAAA",
+              "Title": "CloseOnKeyOrClick.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Scenes\\UI\\Scripts\\CloseOnKeyOrClick.cs",
+              "RelativeDocumentMoniker": "Assets\\Vehicle Physics Pro\\Scenes\\UI\\Scripts\\CloseOnKeyOrClick.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Scenes\\UI\\Scripts\\CloseOnKeyOrClick.cs",
+              "RelativeToolTip": "Assets\\Vehicle Physics Pro\\Scenes\\UI\\Scripts\\CloseOnKeyOrClick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:33:01.357Z",
+              "WhenOpened": "2024-11-11T19:09:17.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "VrCarController.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\VrCarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Vehicle Physics Pro\\VrCarController.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\VrCarController.cs",
+              "RelativeToolTip": "Assets\\Vehicle Physics Pro\\VrCarController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:57:00.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "moving car.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\moving car.cs",
+              "RelativeDocumentMoniker": "Assets\\Vehicle Physics Pro\\moving car.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\moving car.cs",
+              "RelativeToolTip": "Assets\\Vehicle Physics Pro\\moving car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:43:02.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiclePhysics.dll - 1 [Neutral] - Version",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Sdk\\VehiclePhysics.dll",
+              "RelativeDocumentMoniker": "Assets\\Vehicle Physics Pro\\Sdk\\VehiclePhysics.dll",
+              "ToolTip": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Sdk\\VehiclePhysics.dll - 1 [Neutral] - Version",
+              "RelativeToolTip": "Assets\\Vehicle Physics Pro\\Sdk\\VehiclePhysics.dll - 1 [Neutral] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-11-11T18:40:54.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehiclePhysics.dll",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Sdk\\VehiclePhysics.dll",
+              "RelativeDocumentMoniker": "Assets\\Vehicle Physics Pro\\Sdk\\VehiclePhysics.dll",
+              "ToolTip": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Sdk\\VehiclePhysics.dll",
+              "RelativeToolTip": "Assets\\Vehicle Physics Pro\\Sdk\\VehiclePhysics.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-11-11T18:39:04.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IgnitionKey.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Scenes\\UI\\Scripts\\IgnitionKey.cs",
+              "RelativeDocumentMoniker": "Assets\\Vehicle Physics Pro\\Scenes\\UI\\Scripts\\IgnitionKey.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Scenes\\UI\\Scripts\\IgnitionKey.cs",
+              "RelativeToolTip": "Assets\\Vehicle Physics Pro\\Scenes\\UI\\Scripts\\IgnitionKey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:29:36.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarEnter.cs",
+              "DocumentMoniker": "C:\\Users\\shahv\\AppData\\Local\\Temp\\51a2b521-b97b-4ea0-8ff2-88055d73d5e9_RKC2Scripts.zip.5e9\\RKC2Scripts\\CarEnter.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\shahv\\AppData\\Local\\Temp\\51a2b521-b97b-4ea0-8ff2-88055d73d5e9_RKC2Scripts.zip.5e9\\RKC2Scripts\\CarEnter.cs",
+              "ToolTip": "C:\\Users\\shahv\\AppData\\Local\\Temp\\51a2b521-b97b-4ea0-8ff2-88055d73d5e9_RKC2Scripts.zip.5e9\\RKC2Scripts\\CarEnter.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\Users\\shahv\\AppData\\Local\\Temp\\51a2b521-b97b-4ea0-8ff2-88055d73d5e9_RKC2Scripts.zip.5e9\\RKC2Scripts\\CarEnter.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:50:33.699Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnterCarScript.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\EnterCarScript.cs",
+              "RelativeDocumentMoniker": "Assets\\EnterCarScript.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\EnterCarScript.cs",
+              "RelativeToolTip": "Assets\\EnterCarScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:48:23.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarScript,cs.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\CarScript,cs.cs",
+              "RelativeDocumentMoniker": "Assets\\CarScript,cs.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\CarScript,cs.cs",
+              "RelativeToolTip": "Assets\\CarScript,cs.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:45:50.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarExit.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\CarExit.cs",
+              "RelativeDocumentMoniker": "Assets\\CarExit.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\CarExit.cs",
+              "RelativeToolTip": "Assets\\CarExit.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:38:00.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarExit.cs",
+              "DocumentMoniker": "C:\\Users\\shahv\\AppData\\Local\\Temp\\fcca87ae-368b-4c1f-81ef-b7867fcab56f_RKC2Scripts.zip.56f\\RKC2Scripts\\CarExit.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\shahv\\AppData\\Local\\Temp\\fcca87ae-368b-4c1f-81ef-b7867fcab56f_RKC2Scripts.zip.56f\\RKC2Scripts\\CarExit.cs",
+              "ToolTip": "C:\\Users\\shahv\\AppData\\Local\\Temp\\fcca87ae-368b-4c1f-81ef-b7867fcab56f_RKC2Scripts.zip.56f\\RKC2Scripts\\CarExit.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\Users\\shahv\\AppData\\Local\\Temp\\fcca87ae-368b-4c1f-81ef-b7867fcab56f_RKC2Scripts.zip.56f\\RKC2Scripts\\CarExit.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:37:44.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarEnter.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\CarEnter.cs",
+              "RelativeDocumentMoniker": "Assets\\CarEnter.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\CarEnter.cs",
+              "RelativeToolTip": "Assets\\CarEnter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:34:56.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "steering.cs",
+              "DocumentMoniker": "C:\\unity project\\final\\Assets\\steering.cs",
+              "RelativeDocumentMoniker": "Assets\\steering.cs",
+              "ToolTip": "C:\\unity project\\final\\Assets\\steering.cs",
+              "RelativeToolTip": "Assets\\steering.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:33:01.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CaptureScreenshot.cs",
               "DocumentMoniker": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\CaptureScreenshot.cs",
               "RelativeDocumentMoniker": "Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\CaptureScreenshot.cs",
@@ -47,12 +233,11 @@
               "RelativeToolTip": "Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\CaptureScreenshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T09:51:05.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T09:51:05.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "PauseVehicle.cs",
               "DocumentMoniker": "C:\\unity project\\final\\Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\PauseVehicle.cs",
               "RelativeDocumentMoniker": "Assets\\Vehicle Physics Pro\\Sample Assets\\Scripts\\Utility\\PauseVehicle.cs",

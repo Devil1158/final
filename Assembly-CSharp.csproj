@@ -56,46 +56,61 @@
   </PropertyGroup>
   <ItemGroup>
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\unity project\final\Assets\game\Sdk\Editor\VehiclePhysics_Editor.dll" />
+    <Analyzer Include="C:\unity project\final\Assets\game\Sdk\VehiclePhysics.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.37f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.37f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\CloseOnStart.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\HoverHandler.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\GenericMenu.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ConfigDialog.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\Gauge.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\MovableObject.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\CloseOnKeyOrClick.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ShowValueFromSlider.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\MultiToggle.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\PauseVehicle.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\CaptureScreenshot.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\GearModeSelector.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ForceFeedbackMonitor.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\IgnitionKey.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\FollowHeading.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\EscapeDialog.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\BankedPlatform.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\AidsPanel.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\MenuOverlay.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\DeviceDebugInfo.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ShiftIndicator.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\HideOnStart.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\VehicleSetupDialog.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\TelemetryChartToolbar.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\EndlessMovingSurface.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\InputConfigDialog.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\InputMonitor.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\Dashboard.cs" />
+    <Compile Include="Assets\game\Sample Assets\Scripts\Utility\FollowHeading.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\HoverHandler.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\InputConfigDialog.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\MenuOverlay.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\CloseOnStart.cs" />
+    <Compile Include="Assets\game\Sample Assets\Scripts\Utility\CaptureScreenshot.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\TelemetryChartToolbar.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\ShiftIndicator.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\AidsPanel.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\ConfigDialog.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\CloseOnKeyOrClick.cs" />
+    <Compile Include="Assets\game\Sample Assets\Scripts\Utility\EndlessMovingSurface.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\DeviceDebugInfo.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\EscapeDialog.cs" />
+    <Compile Include="Assets\game\Sample Assets\Scripts\Utility\PauseVehicle.cs" />
+    <Compile Include="Assets\game\Sample Assets\Scripts\Utility\BankedPlatform.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\Dashboard.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\ForceFeedbackMonitor.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\HideOnStart.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\ShowValueFromSlider.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\VehicleSetupDialog.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\InputMonitor.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\Gauge.cs" />
+    <Compile Include="Assets\game\Sample Assets\Scripts\Utility\MovableObject.cs" />
+    <Compile Include="Assets\game\moving car.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\GearModeSelector.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\MultiToggle.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\GenericMenu.cs" />
+    <Compile Include="Assets\game\VrCarController.cs" />
+    <Compile Include="Assets\game\Scenes\UI\Scripts\IgnitionKey.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Vehicle Physics Pro\VPP Project Settings\!Readme - Project Settings.txt" />
-    <None Include="Assets\Vehicle Physics Pro\Sample Assets\Art\Fonts\OFL.txt" />
-    <None Include="Assets\Vehicle Physics Pro\Sdk\VehiclePhysics.dll" />
-    <None Include="Assets\Vehicle Physics Pro\Sample Assets\Art\Fonts\_Readme.txt" />
-    <None Include="Assets\Vehicle Physics Pro\Sample Assets\Locations\! Locations readme.txt" />
-    <None Include="Assets\Vehicle Physics Pro\Sample Assets\Art\Models\Playground Lite\Shaders\World UV Map.shader" />
+    <None Include="Assets\com.gleechi.unity.virtualgrasp\Samples\Onboarding\Shaders\SH_GleechiTarget.shader" />
+    <None Include="Assets\com.gleechi.unity.virtualgrasp\Samples\Onboarding\Shaders\SH_GleechiAlphaBlend.shader" />
+    <None Include="Assets\game\VPP Project Settings\!Readme - Project Settings.txt" />
+    <None Include="Assets\game\Sample Assets\Art\Fonts\OFL.txt" />
+    <None Include="Assets\com.gleechi.unity.virtualgrasp\Lib\x86_64\virtualgrasp-selection.dll" />
+    <None Include="Assets\com.gleechi.unity.virtualgrasp\Lib\VirtualGrasp.xml" />
+    <None Include="Assets\com.gleechi.unity.virtualgrasp\Runtime\Resources\GleechiHands\SH_GleechiHands.shader" />
+    <None Include="Assets\com.gleechi.unity.virtualgrasp\Samples\Onboarding\Shaders\SH_GleechiGlass.shader" />
+    <None Include="Assets\com.gleechi.unity.virtualgrasp\Runtime\Resources\GleechiHands\SH_GleechiUnlit.shader" />
+    <None Include="Assets\game\Sdk\VehiclePhysics.dll" />
+    <None Include="Assets\game\Sample Assets\Art\Fonts\_Readme.txt" />
+    <None Include="Assets\com.gleechi.unity.virtualgrasp\Samples\Onboarding\Shaders\SH_GleechiMetal.shader" />
+    <None Include="Assets\game\Sample Assets\Locations\! Locations readme.txt" />
+    <None Include="Assets\com.gleechi.unity.virtualgrasp\Samples\Onboarding\Shaders\SH_GleechiDiffuse.shader" />
+    <None Include="Assets\com.gleechi.unity.virtualgrasp\Lib\VirtualGrasp.dll" />
+    <None Include="Assets\com.gleechi.unity.virtualgrasp\Runtime\Resources\SH_RimLight.shader" />
+    <None Include="Assets\game\Sample Assets\Art\Models\Playground Lite\Shaders\World UV Map.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -435,11 +450,15 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="VehiclePhysics">
-      <HintPath>Assets\Vehicle Physics Pro\Sdk\VehiclePhysics.dll</HintPath>
+      <HintPath>Assets\game\Sdk\VehiclePhysics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="VirtualGrasp">
+      <HintPath>Assets\com.gleechi.unity.virtualgrasp\Lib\VirtualGrasp.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Android.Types">
@@ -1022,16 +1041,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Flow.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.XR.CoreUtils">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
+    <Reference Include="Unity.VisualScripting.Flow.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Timeline">
@@ -1052,6 +1067,10 @@
     </Reference>
     <Reference Include="Unity.XR.Oculus">
       <HintPath>Library\ScriptAssemblies\Unity.XR.Oculus.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.XR.CoreUtils">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
@@ -1078,16 +1097,16 @@
       <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.XR.Management.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.XR.Management.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
+      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Mathematics">
@@ -1132,6 +1151,26 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Gleechi.VirtualGrasp.Onboarding.csproj">
+      <Project>{EDAF5B43-00FE-D23E-BFCE-D60A7FA8CBB4}</Project>
+      <Name>Gleechi.VirtualGrasp.Onboarding</Name>
+    </ProjectReference>
+    <ProjectReference Include="Dependencies.csproj">
+      <Project>{FF355A7A-A4B7-B7B1-55F8-EB35A6ACAFB6}</Project>
+      <Name>Dependencies</Name>
+    </ProjectReference>
+    <ProjectReference Include="Gleechi.VirtualGrasp.Build.csproj">
+      <Project>{75C3610E-F62C-FE08-64FD-AB6FC0CE22CC}</Project>
+      <Name>Gleechi.VirtualGrasp.Build</Name>
+    </ProjectReference>
+    <ProjectReference Include="VG_Scripts.csproj">
+      <Project>{46801F24-49E6-7762-93A3-26383E9C13FF}</Project>
+      <Name>VG_Scripts</Name>
+    </ProjectReference>
+    <ProjectReference Include="Gleechi.VirtualGrasp.Editor.csproj">
+      <Project>{16DE70B5-6E6B-B21C-AD81-BDE9DB160FB5}</Project>
+      <Name>Gleechi.VirtualGrasp.Editor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

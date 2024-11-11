@@ -122,8 +122,10 @@
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -define:UNITY_EDITOR_ONLY_COMPILATION
--r:"Assets/Vehicle Physics Pro/Sdk/Editor/VehiclePhysics_Editor.dll"
--r:"Assets/Vehicle Physics Pro/Sdk/VehiclePhysics.dll"
+-r:"Assets/com.gleechi.unity.virtualgrasp/Lib/Editor/VirtualGrasp.Editor.dll"
+-r:"Assets/com.gleechi.unity.virtualgrasp/Lib/VirtualGrasp.dll"
+-r:"Assets/game/Sdk/Editor/VehiclePhysics_Editor.dll"
+-r:"Assets/game/Sdk/VehiclePhysics.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -354,6 +356,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+-analyzer:"Assets/game/Sdk/Editor/VehiclePhysics_Editor.dll"
+-analyzer:"Assets/game/Sdk/VehiclePhysics.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10/Editor/TrackedPoseDriver/TPDConfigurationProvider.cs"
